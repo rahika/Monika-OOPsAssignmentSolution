@@ -4,7 +4,7 @@ public class HrDepartment {
 	public  String departmentName()
 	{
 	    String  Hr = " Hr";
-	    System.out.println("4) Hr Department");
+	    System.out.println("Welcome to Hr Department");
 	     return  Hr;
 	     }
 	public  String  getTodaysWork()

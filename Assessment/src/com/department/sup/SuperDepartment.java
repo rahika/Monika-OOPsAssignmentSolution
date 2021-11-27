@@ -5,7 +5,7 @@ public class SuperDepartment {
 public  String departmentName()
 {
     String dep = "dep";
-    System.out.println("1) Super Department");
+    System.out.println("Welcome to Super Department");
      return dep;
 }
 public  String  getTodaysWork()

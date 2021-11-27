@@ -7,7 +7,7 @@ public class AdminDepartment extends SuperDepartment{
 public  String departmentName()
 {
     String Admin= "Admin";
-    System.out.println("2) Admin Department");
+    System.out.println("Welcome to Admin Department");
      return Admin;
 }
 public  String  getTodaysWork()
